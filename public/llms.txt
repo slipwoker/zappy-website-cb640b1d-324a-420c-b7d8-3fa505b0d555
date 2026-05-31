@@ -1,0 +1,108 @@
+# DIAMANT — Generative Engine Optimization Map
+
+> DIAMANT is a men's fashion brand based in Beer Tuvia, Israel, focused on clean, precise, and quality clothing for everyday wear and special occasions. The brand identity is minimalist, masculine, and understated — not flashy or trend-driven. It caters to a wide range of men including religious and traditional customers, grooms, and men who dislike complicated shopping. The tone is direct, calm, and practical, using language like 'sits well', 'clean cut', 'closed look', and 'easy to wear'. The store also offers personalized tailoring for wedding and evening suits, emphasizing consultation and fitting appointments over online purchase for that category.
+
+---
+
+## Pages
+
+### בית
+https://diamant-cb640b1d.zappy5.app
+בגדי גברים שיושבים טוב, נראים נקי ועומדים כל יום. חולצות לגבר, טישרטים וחליפות ערב — כל מה שצריך, בלי סיבוך. קנה עכשיו ב-DIAMANT.
+
+### אודות
+https://diamant-cb640b1d.zappy5.app/about
+DIAMANT נולד מתוך הבנה פשוטה: גבר צריך בגד שיושב טוב, נראה מסודר ולא מצריך מחשבה. גלה את הסיפור, הערכים והחזון שמאחורי המותג מבאר טוביה.
+
+### התאמת חליפות
+https://diamant-cb640b1d.zappy5.app/suits-fitting
+חליפות ערב וחליפות חתן בהתאמה אישית — עם ייעוץ, מדידה ותשומת לב לכל פרט. קבע תור להתאמת חליפה ב-DIAMANT וצא עם מראה שלא ישכחו.
+
+### שאלות נפוצות
+https://diamant-cb640b1d.zappy5.app/faq
+מידות, משלוחים, החזרות, טישרטים לגבר או חולצות — כל השאלות הנפוצות במקום אחד. חסוך זמן, קבל בטחון ותמשיך לקנות בלי היסוסים ב-DIAMANT.
+
+### צור קשר
+https://diamant-cb640b1d.zappy5.app/contact
+שאלה על מידה? רוצה לקבוע תור למדידת חליפה? צוות DIAMANT כאן בשבילך — צור קשר עכשיו ונחזור אליך מהר, בלי בירוקרטיה ובלי המתנה מיותרת.
+
+### Products
+https://diamant-cb640b1d.zappy5.app/products
+המוצרים שלנו - DIAMANT
+
+### Cart
+https://diamant-cb640b1d.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://diamant-cb640b1d.zappy5.app/checkout
+תשלום
+
+### Login
+https://diamant-cb640b1d.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://diamant-cb640b1d.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://diamant-cb640b1d.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://diamant-cb640b1d.zappy5.app/product/:slug
+פרטי המוצר - DIAMANT
+
+### Category
+https://diamant-cb640b1d.zappy5.app/category/:slug
+מוצרים - DIAMANT
+
+## Legal & Policy
+
+### Privacy Policy
+https://diamant-cb640b1d.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://diamant-cb640b1d.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://diamant-cb640b1d.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About DIAMANT
+DIAMANT is a men's fashion brand based in Beer Tuvia, Israel, focused on clean, precise, and quality clothing for everyday wear and special occasions. The brand identity is minimalist, masculine, and understated — not flashy or trend-driven. It caters to a wide range of men including religious and traditional customers, grooms, and men who dislike complicated shopping. The tone is direct, calm, and practical, using language like 'sits well', 'clean cut', 'closed look', and 'easy to wear'. The store also offers personalized tailoring for wedding and evening suits, emphasizing consultation and fitting appointments over online purchase for that category.
+
+## Target Audience
+- גברים בגילאי 18–40, בחורי ישיבה וגברים דתיים, חתנים ומלווים, נשים שקונות לגברים, לקוחות קיימים של DIAMANT
+- בחורי ישיבה וגברים דתיים
+- חתנים ומלווים
+- נשים שקונות לגברים
+- לקוחות קיימים של DIAMANT
+- צעירים מקצועיים
+- גברים שלא אוהבים לקנות בגדים
+
+## Industry
+Men's Fashion E-commerce
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://diamant-cb640b1d.zappy5.app/sitemap.xml
+- Robots: https://diamant-cb640b1d.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://diamant-cb640b1d.zappy5.app/llms-full.txt
+- Products (JSON): https://diamant-cb640b1d.zappy5.app/products.json
+- Products (Google Merchant RSS): https://diamant-cb640b1d.zappy5.app/product-feed.xml
