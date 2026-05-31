@@ -7,69 +7,69 @@
 ## Pages
 
 ### בית
-https://diamant-cb640b1d.zappy5.app
+https://example.com
 בגדי גברים שיושבים טוב, נראים נקי ועומדים כל יום. חולצות לגבר, טישרטים וחליפות ערב — כל מה שצריך, בלי סיבוך. קנה עכשיו ב-DIAMANT.
 
 ### אודות
-https://diamant-cb640b1d.zappy5.app/about
+https://example.com/about
 DIAMANT נולד מתוך הבנה פשוטה: גבר צריך בגד שיושב טוב, נראה מסודר ולא מצריך מחשבה. גלה את הסיפור, הערכים והחזון שמאחורי המותג מבאר טוביה.
 
 ### התאמת חליפות
-https://diamant-cb640b1d.zappy5.app/suits-fitting
+https://example.com/suits-fitting
 חליפות ערב וחליפות חתן בהתאמה אישית — עם ייעוץ, מדידה ותשומת לב לכל פרט. קבע תור להתאמת חליפה ב-DIAMANT וצא עם מראה שלא ישכחו.
 
 ### שאלות נפוצות
-https://diamant-cb640b1d.zappy5.app/faq
+https://example.com/faq
 מידות, משלוחים, החזרות, טישרטים לגבר או חולצות — כל השאלות הנפוצות במקום אחד. חסוך זמן, קבל בטחון ותמשיך לקנות בלי היסוסים ב-DIAMANT.
 
 ### צור קשר
-https://diamant-cb640b1d.zappy5.app/contact
+https://example.com/contact
 שאלה על מידה? רוצה לקבוע תור למדידת חליפה? צוות DIAMANT כאן בשבילך — צור קשר עכשיו ונחזור אליך מהר, בלי בירוקרטיה ובלי המתנה מיותרת.
 
 ### Products
-https://diamant-cb640b1d.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - DIAMANT
 
 ### Cart
-https://diamant-cb640b1d.zappy5.app/cart
+https://example.com/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://diamant-cb640b1d.zappy5.app/checkout
+https://example.com/checkout
 תשלום
 
 ### Login
-https://diamant-cb640b1d.zappy5.app/login
+https://example.com/login
 התחברות לקוחות
 
 ### Account
-https://diamant-cb640b1d.zappy5.app/account
+https://example.com/account
 החשבון שלי
 
 ### Order Success
-https://diamant-cb640b1d.zappy5.app/order-success
+https://example.com/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://diamant-cb640b1d.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - DIAMANT
 
 ### Category
-https://diamant-cb640b1d.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - DIAMANT
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://diamant-cb640b1d.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://diamant-cb640b1d.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://diamant-cb640b1d.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -101,8 +101,8 @@ Men's Fashion E-commerce
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://diamant-cb640b1d.zappy5.app/sitemap.xml
-- Robots: https://diamant-cb640b1d.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://diamant-cb640b1d.zappy5.app/llms-full.txt
-- Products (JSON): https://diamant-cb640b1d.zappy5.app/products.json
-- Products (Google Merchant RSS): https://diamant-cb640b1d.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
